@@ -1,4 +1,5 @@
 # Multiple Language Versions
+
 * [English](en/)
 * [French](fr/)
 * [Spanish](es/)
@@ -7,6 +8,7 @@
 * [Turkish](tr/)
 * [Português - Brasil](pt-br/)
 * [German](de/)
+* [Русский](ru/)
 
 # Donate
 
@@ -17,7 +19,7 @@ English Donate:[donate](http://beego.me/donate)
 ## Community
 QQ群：148647580
 
-BBS：[http://golanghome.com/](http://golanghome.com/)
+BBS：[http://golanghome.com/](http://gocn.io/)
 
 ## Acknowledgments
 
